@@ -21,7 +21,7 @@ This project explores how learning rate, dropout rate, number of epochs, and opt
 
 ## 🔬 Project Files
 
-- `Hongyi_NeuralNet_Paper.pdf` – Final paper
+- `Hongyi_NeuralNet_Paper.pdf`
 
 ## 📫 Author
 
